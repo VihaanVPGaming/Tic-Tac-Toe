@@ -47,5 +47,5 @@ To install Tic-Tac-Toe, follow these steps:
 4. Open the `Tic-Tac-Toe.x86_64` file to start the game!
 
 
-[VueCode Tutorial](https://www.youtube.com/channel/UCtP-1zQ2g_jpgYvvBqkWltA)
+[VueCode Tutorial](https://www.youtube.com/watch?v=Vmit7UDs_sU)
 [VihaanVP YouTube](https://twitter.com/VueCode/)
