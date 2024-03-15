@@ -10,9 +10,9 @@ _This project was built with Unity 2022.3.21f1_
 ## Edits Made to Orignal Code :pencil2:
 Added a new script `EndGame.cs` to the orignal game, fixing the exit button code.
 
-## Installation
+## Installation :muscle:
 
-### Windows
+### Windows :window:
 
 To install Tic-Tac-Toe, follow these steps:
 
@@ -24,7 +24,7 @@ To install Tic-Tac-Toe, follow these steps:
 
 4. Open the `Tic-Tac-Toe.exe` file to start the game!
 
-### Mac OS
+### Mac OS :apple:
 
 To install Tic-Tac-Toe, follow these steps:
 
@@ -34,7 +34,7 @@ To install Tic-Tac-Toe, follow these steps:
 
 3. Open the `Tic-Tac-Toe` application to start the game!
 
-### Linux (Not exactly sure how it works)
+### Linux :penguin: (Not exactly sure how it works)
 
 To install Tic-Tac-Toe, follow these steps:
 
@@ -46,7 +46,7 @@ To install Tic-Tac-Toe, follow these steps:
 
 4. Open the `Tic-Tac-Toe.x86_64` file to start the game!
 
-## Credits
+## Credits :sleeping:
 ### 1. [VueCode Tutorial](https://www.youtube.com/watch?v=Vmit7UDs_sU)
 
 ### 2. [VihaanVP YouTube](https://www.youtube.com/@vihaanvp?sub_confirmation=1)
